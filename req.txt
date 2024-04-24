@@ -1,0 +1,8 @@
+flask
+PyJWT
+peewee
+PyMySQL
+requests
+sqlalchemy
+python-dotenv
+mysql-connector-python
