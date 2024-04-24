@@ -14,6 +14,5 @@
 ##Note
 1. Setup is on WSL2
 2. Make sure the mysql is alive
-3. python -m vevn .venv; source .venv/bin/activate; pip install -r req.txt
 4. sh run.sh
 5. Once up visit the URL and start exploring
